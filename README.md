@@ -1,1 +1,1 @@
-folders are ordered chronologically based on project completion (yr-date-projectname). please browse :)
+folders are ordered chronologically based on project completion (year-month-projectname). please browse :)
