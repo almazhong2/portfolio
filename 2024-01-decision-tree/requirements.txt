@@ -1,0 +1,13 @@
+#data science libraries
+pandas
+numpy
+
+#machine learning
+scikit-learn
+imbalanced-learn
+
+#visual
+matplotlib
+seaborn
+
+#dataset
